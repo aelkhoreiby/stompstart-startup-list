@@ -13,7 +13,7 @@ access:
     url: https://www.databerry.app/signup
 categories:
   - data-and-analytics
-  - productivity-and-collaboration
+  - productivity
 stage: live
 pricing:
   model: freemium
