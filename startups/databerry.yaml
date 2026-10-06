@@ -28,10 +28,7 @@ links:
     url: https://www.producthunt.com/products/databerry
 logo:
   path: logo.png
-  alt: Databerry gradient logo icon
-gallery:
-  - path: product.png
-    alt: Databerry dashboard showing connected business metrics
+  alt: The Databerry logo, three white connected circles on an orange rounded square
 sources:
   - url: https://www.databerry.app/
     title: Official website
